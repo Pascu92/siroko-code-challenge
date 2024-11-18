@@ -1,0 +1,4 @@
+infrastructure_controllers:
+    resource: '../src/Infrastructure/Controller/'
+    type: attribute
+    prefix: /api
